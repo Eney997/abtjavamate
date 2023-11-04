@@ -464,3 +464,72 @@
 
 
 
+
+
+// SECRET LIFE OF OBJECTS +map +filter daash
+
+//enkapsulacia aris erti didi problemis 
+//bevr nawilad dayofa da matze mushaoba da moyomareba
+
+
+
+//methods
+
+//about THIS key word
+
+// let rabbit = {}
+// rabbit.speak=function(line){
+//     console.log(`the rabbit says '${line}'`)
+// }
+// rabbit.speak("im alive.")
+
+
+
+
+
+// function speak(line){
+//     console.log(`the${this.type} rabbit says'${line}'`)
+// }
+// let whiteRabbit = {type:"white",speak}
+// let hungryRabbit = {type:"hungry",speak}
+
+// whiteRabbit.speak("oh my ears and whiskers,"+"how late it is getting!")
+
+// hungryRabbit.speak("i could use a carrot right now.")
+
+
+
+
+
+
+                        //PROTOTYPES
+
+//tu ginda rom stingis prototips chavwvdet
+// unda gamoiyeno .GETPROTOTYPEOF9([])
+
+
+
+
+
+//CLASES 
+
+
+//KONSTRUQTORI QMNIS RAMEE AXAL KONSTRUQCIAS RISI 
+//DAMATEBAC GVINDA PROTOTIPZE
+
+// let rabbit
+// function makeRabbit(type) {
+//     let rabbit = Object.create(protoRabbit)
+//     rabbit.type = type
+//     return rabbit
+// }
+// console.log(makeRabbit)
+
+
+
+
+
+
+
+
+
